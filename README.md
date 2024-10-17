@@ -5,7 +5,7 @@ This toolkit is a collection of scripts and tools to help you manage your Kafka 
 
 Install the package with the following command:
 ```bash
-go install github.com/suryatresna/kafka-toolkit
+go install github.com/suryatresna/kafka-toolkit@latest
 ```
 
 After that, you can use the following command to see the available commands:
